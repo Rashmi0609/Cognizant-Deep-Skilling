@@ -1,0 +1,25 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial;
+}
+
+h2 {
+  color: blue;
+}
+
+.name {
+  color: green;
+}
+
+.school {
+  color: purple;
+}
+
+.total {
+  color: orange;
+}
+
+.average {
+  color: red;
+} 
